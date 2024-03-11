@@ -1,9 +1,9 @@
 const Navbar = () => {
   return (
-    <div className="flex justify-around items-center p-5 shadow">
+    <div className="sm:flex-cols flex justify-around items-center p-5 ">
       <h3 className="text-2 cursor-pointer">Career Hub</h3>
 
-      <div className="flex justify-center items-center">
+      <div className="flex justify-center items-center hidden lg:block">
         <button className="mr-3 cursor-pointer">Statistics</button>
         <button className="mr-3 cursor-pointer">Applied Jobs</button>
         <button className="mr-3 cursor-pointer">Blog</button>

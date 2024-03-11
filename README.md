@@ -1,6 +1,11 @@
-# React + Vite
+# Career Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a portfolio website of an web developer.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on
+These instructions will get you a copy of the project up and running on your local machine for
 
 Currently, two official plugins are available:
 
