@@ -1,0 +1,72 @@
+[
+  {
+    "jobCategory": "Software Development",
+    "companyName": "Tech Innovators Inc.",
+    "jobType": "Full-time",
+    "jobLocation": "San Francisco, CA",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "jobCategory": "Marketing",
+    "companyName": "Global Marketing Solutions",
+    "jobType": "Part-time",
+    "jobLocation": "New York, NY",
+    "salary": "$50,000 - $60,000"
+  },
+  {
+    "jobCategory": "Data Science",
+    "companyName": "Data Analytics Co.",
+    "jobType": "Contract",
+    "jobLocation": "Seattle, WA",
+    "salary": "$80,000 - $90,000"
+  },
+  {
+    "jobCategory": "Finance",
+    "companyName": "Financial Wizards Ltd.",
+    "jobType": "Full-time",
+    "jobLocation": "Chicago, IL",
+    "salary": "$120,000 - $140,000"
+  },
+  {
+    "jobCategory": "Graphic Design",
+    "companyName": "Creative Designs Agency",
+    "jobType": "Freelance",
+    "jobLocation": "Los Angeles, CA",
+    "salary": "$60,000 - $80,000"
+  },
+  {
+    "jobCategory": "Healthcare",
+    "companyName": "Wellness Health Center",
+    "jobType": "Part-time",
+    "jobLocation": "Boston, MA",
+    "salary": "$70,000 - $90,000"
+  },
+  {
+    "jobCategory": "Education",
+    "companyName": "Academic Excellence School",
+    "jobType": "Full-time",
+    "jobLocation": "Austin, TX",
+    "salary": "$50,000 - $70,000"
+  },
+  {
+    "jobCategory": "Human Resources",
+    "companyName": "Talent Solutions Corp.",
+    "jobType": "Contract",
+    "jobLocation": "Denver, CO",
+    "salary": "$80,000 - $100,000"
+  },
+  {
+    "jobCategory": "Customer Support",
+    "companyName": "Supportive Tech Services",
+    "jobType": "Full-time",
+    "jobLocation": "Atlanta, GA",
+    "salary": "$55,000 - $75,000"
+  },
+  {
+    "jobCategory": "Sales",
+    "companyName": "Sales Pros International",
+    "jobType": "Commission-based",
+    "jobLocation": "Miami, FL",
+    "salary": "Varies based on sales"
+  }
+]

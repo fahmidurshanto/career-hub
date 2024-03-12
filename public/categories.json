@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "availableJobs": 120,
+    "jobCategoryTitle": "Software Engineer",
+    "realJobIconLink": "https://i.ibb.co/PMknr6P/chip-1.png"
+  },
+  {
+    "id": 2,
+    "availableJobs": 80,
+    "jobCategoryTitle": "Data Analyst",
+    "realJobIconLink": "https://i.ibb.co/TTP6Fdy/social-media-1.png"
+  },
+  {
+    "id": 3,
+    "availableJobs": 50,
+    "jobCategoryTitle": "Product Manager",
+    "realJobIconLink": "https://i.ibb.co/TTP6Fdy/social-media-1.png"
+  },
+  {
+    "id": 4,
+    "availableJobs": 30,
+    "jobCategoryTitle": "Graphic Designer",
+    "realJobIconLink": "https://i.ibb.co/FBmYgL8/business-1.png"
+  },
+  {
+    "id": 5,
+    "availableJobs": 25,
+    "jobCategoryTitle": "Marketing Specialist",
+    "realJobIconLink": "https://i.ibb.co/FBmYgL8/business-1.png"
+  }
+]
