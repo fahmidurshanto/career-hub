@@ -3,7 +3,7 @@ import Category from "../Category/Category";
 
 const JobCategory = ({ categories }) => {
   return (
-    <div className="text-center">
+    <div className="text-center my-12">
       <h2 className="text-4xl font-semibold pt-5">Job Category List</h2>
       <p
         className="text-gray-400 

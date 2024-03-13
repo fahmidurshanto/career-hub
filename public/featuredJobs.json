@@ -1,72 +1,122 @@
 [
   {
+    "id": 1,
     "jobCategory": "Software Development",
     "companyName": "Tech Innovators Inc.",
     "jobType": "Full-time",
     "jobLocation": "San Francisco, CA",
-    "salary": "$100,000 - $120,000"
+    "salary": "$100,000 - $120,000",
+    "jobDescription": "We are seeking a skilled software developer to join our innovative team. The successful candidate will be responsible for developing high-quality software solutions that meet business needs and improve efficiency.",
+    "jobResponsibility": "Responsibilities include designing, coding, and testing software applications, collaborating with cross-functional teams to define, design, and ship new features, and continuously discovering, evaluating, and implementing new technologies to maximize development efficiency.",
+    "jobRequirements": "Candidates should have a Bachelor's degree in Computer Science or related field, along with strong programming skills in languages such as Java, Python, or JavaScript. Experience with Agile methodologies and knowledge of software development best practices is preferred.",
+    "experience": "3+ years of experience in software development."
   },
   {
+    "id": 2,
     "jobCategory": "Marketing",
     "companyName": "Global Marketing Solutions",
     "jobType": "Part-time",
     "jobLocation": "New York, NY",
-    "salary": "$50,000 - $60,000"
+    "salary": "$50,000 - $60,000",
+    "jobDescription": "Join our dynamic marketing team to assist with various campaigns and initiatives. The selected candidate will play a key role in driving brand awareness, generating leads, and executing marketing strategies to achieve business objectives.",
+    "jobResponsibility": "Responsibilities include conducting market research to identify trends and opportunities, creating engaging content for digital and print platforms, and managing social media channels to enhance brand presence and engage with the target audience.",
+    "jobRequirements": "Candidates should have a Bachelor's degree in Marketing or related field, with strong communication and analytical skills. Experience with marketing tools such as Google Analytics, Adobe Creative Suite, and social media management platforms is a plus.",
+    "experience": "2+ years of experience in marketing or related field."
   },
   {
+    "id": 3,
     "jobCategory": "Data Science",
     "companyName": "Data Analytics Co.",
     "jobType": "Contract",
     "jobLocation": "Seattle, WA",
-    "salary": "$80,000 - $90,000"
+    "salary": "$80,000 - $90,000",
+    "jobDescription": "We're looking for a talented data scientist to work on challenging projects. The ideal candidate will leverage data analytics to drive actionable insights and contribute to data-driven decision-making processes.",
+    "jobResponsibility": "Responsibilities include collecting and analyzing large datasets, developing and implementing machine learning algorithms, and communicating findings to stakeholders through data visualization and reports.",
+    "jobRequirements": "Candidates should have a Master's degree in Data Science, Statistics, or related field, along with proficiency in programming languages such as R or Python. Strong analytical skills and the ability to translate complex data into actionable insights are essential.",
+    "experience": "5+ years of experience in data science or related field."
   },
   {
+    "id": 4,
     "jobCategory": "Finance",
     "companyName": "Financial Wizards Ltd.",
     "jobType": "Full-time",
     "jobLocation": "Chicago, IL",
-    "salary": "$120,000 - $140,000"
+    "salary": "$120,000 - $140,000",
+    "jobDescription": "Join our finance team and contribute to strategic financial planning and analysis. The selected candidate will play a critical role in optimizing financial performance and driving business growth.",
+    "jobResponsibility": "Responsibilities include financial modeling and forecasting, analyzing financial data to identify trends and opportunities, and providing strategic recommendations to senior management.",
+    "jobRequirements": "Candidates should have a Bachelor's degree in Finance, Accounting, or related field, with strong analytical and problem-solving skills. Professional certifications such as CFA or CPA are preferred.",
+    "experience": "4+ years of experience in finance or related field."
   },
   {
+    "id": 5,
     "jobCategory": "Graphic Design",
     "companyName": "Creative Designs Agency",
     "jobType": "Freelance",
     "jobLocation": "Los Angeles, CA",
-    "salary": "$60,000 - $80,000"
+    "salary": "$60,000 - $80,000",
+    "jobDescription": "We're seeking a talented graphic designer to work on various projects. The successful candidate will bring creative concepts to life and deliver visually stunning designs that resonate with target audiences.",
+    "jobResponsibility": "Responsibilities include conceptualizing and designing marketing materials, collaborating with clients to understand their requirements and preferences, and ensuring brand consistency across all design assets.",
+    "jobRequirements": "Candidates should have a Bachelor's degree in Graphic Design or related field, with proficiency in design software such as Adobe Creative Suite. A strong portfolio showcasing creative design projects is required.",
+    "experience": "3+ years of experience in graphic design or related field."
   },
   {
+    "id": 6,
     "jobCategory": "Healthcare",
     "companyName": "Wellness Health Center",
     "jobType": "Part-time",
     "jobLocation": "Boston, MA",
-    "salary": "$70,000 - $90,000"
+    "salary": "$70,000 - $90,000",
+    "jobDescription": "Join our healthcare team to provide compassionate care to our patients. The selected candidate will play a crucial role in promoting wellness and improving patient outcomes.",
+    "jobResponsibility": "Responsibilities include conducting patient assessments, developing and implementing care plans, and collaborating with interdisciplinary teams to ensure comprehensive patient care.",
+    "jobRequirements": "Candidates should have a degree in Nursing or related field, with relevant licensure and experience in healthcare settings. Strong clinical skills and empathy towards patients are essential.",
+    "experience": "2+ years of experience in healthcare or related field."
   },
   {
+    "id": 7,
     "jobCategory": "Education",
     "companyName": "Academic Excellence School",
     "jobType": "Full-time",
     "jobLocation": "Austin, TX",
-    "salary": "$50,000 - $70,000"
+    "salary": "$50,000 - $70,000",
+    "jobDescription": "Become part of our dedicated teaching staff and inspire students to reach their full potential. The successful candidate will foster a positive learning environment and facilitate student growth and development.",
+    "jobResponsibility": "Responsibilities include planning and delivering engaging lessons, assessing student progress through formative and summative assessments, and providing constructive feedback to support student learning.",
+    "jobRequirements": "Candidates should have a Bachelor's degree in Education or related field, along with relevant teaching certification and experience. Passion for education and commitment to student success are paramount.",
+    "experience": "3+ years of experience in teaching or related field."
   },
   {
+    "id": 8,
     "jobCategory": "Human Resources",
     "companyName": "Talent Solutions Corp.",
     "jobType": "Contract",
     "jobLocation": "Denver, CO",
-    "salary": "$80,000 - $100,000"
+    "salary": "$80,000 - $100,000",
+    "jobDescription": "Join our HR team to support various talent management initiatives. The selected candidate will play a key role in attracting, developing, and retaining top talent to drive organizational success.",
+    "jobResponsibility": "Responsibilities include sourcing and recruiting candidates, conducting interviews and assessments, and implementing HR strategies and policies to foster a positive work culture.",
+    "jobRequirements": "Candidates should have a Bachelor's degree in Human Resources or related field, along with HR certification and experience in HR functions such as recruitment, performance management, and employee relations.",
+    "experience": "4+ years of experience in HR or related field."
   },
   {
+    "id": 9,
     "jobCategory": "Customer Support",
     "companyName": "Supportive Tech Services",
     "jobType": "Full-time",
     "jobLocation": "Atlanta, GA",
-    "salary": "$55,000 - $75,000"
+    "salary": "$55,000 - $75,000",
+    "jobDescription": "Join our customer support team to provide exceptional service to our clients. The successful candidate will be responsible for resolving customer inquiries and issues in a timely and professional manner.",
+    "jobResponsibility": "Responsibilities include responding to customer inquiries via phone, email, and chat, troubleshooting technical issues, and escalating complex cases to appropriate teams for resolution.",
+    "jobRequirements": "Candidates should have strong communication skills and previous experience in customer service roles. Technical proficiency and the ability to multitask in a fast-paced environment are essential.",
+    "experience": "2+ years of experience in customer service or related field."
   },
   {
+    "id": 10,
     "jobCategory": "Sales",
     "companyName": "Sales Pros International",
     "jobType": "Commission-based",
     "jobLocation": "Miami, FL",
-    "salary": "Varies based on sales"
+    "salary": "Varies based on sales",
+    "jobDescription": "Join our sales team to drive revenue and achieve sales targets. The selected candidate will play a pivotal role in acquiring new customers and expanding our market presence.",
+    "jobResponsibility": "Responsibilities include prospecting and qualifying leads, delivering persuasive sales presentations, and negotiating and closing sales deals to meet or exceed revenue targets.",
+    "jobRequirements": "Candidates should have a proven track record in sales, with strong negotiation and relationship-building skills. A results-driven mindset and the ability to thrive in a competitive sales environment are essential.",
+    "experience": "5+ years of experience in sales or related field."
   }
 ]

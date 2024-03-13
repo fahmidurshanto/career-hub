@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const Category = ({ category }) => {
   return (
     <div className="text-gray-400 p-5 bg-pink-50 text-center rounded">

@@ -46,7 +46,7 @@ const Footer = () => {
       </nav>
       <aside className="text-center">
         <p className="pt-3 pb-10">
-          Copyright © 2024 - All right reserved by ACME Industries Ltd
+          Copyright © 2024 - All right reserved by Career Hub Inc.
         </p>
       </aside>
     </footer>
