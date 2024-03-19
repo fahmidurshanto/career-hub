@@ -11,7 +11,7 @@ const Banner = () => {
           need. Its your future. Come find it. Manage all your job application
           from start to finish.
         </p>
-        <button className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ... p-2 rounded text-white">
+        <button className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ... p-2 rounded text-white cursor-pointer">
           Get Started
         </button>
       </div>

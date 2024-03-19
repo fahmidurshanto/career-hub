@@ -1,11 +1,20 @@
 import { MdLocationOn } from "react-icons/md";
 import { useLoaderData, useParams } from "react-router-dom";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import { saveJobApplication } from "../../Utility/localStorage";
 
 const JobDetail = () => {
   const jobs = useLoaderData();
   const { id } = useParams();
-  const job = jobs.find((job) => job.id === parseInt(id));
-  console.log(job);
+  const idInt = parseInt(id);
+  console.log(idInt);
+  const job = jobs.find((job) => job.id === idInt);
+  const handleApplyJob = (e) => {
+    e.preventDefault();
+    saveJobApplication(idInt);
+    toast("You have applied successfully");
+  };
   const {
     companyName,
     jobCategory,
@@ -21,7 +30,9 @@ const JobDetail = () => {
   return (
     <div>
       <div className="flex justify-center items-center bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ... text-center">
-        <h2 className="text-5xl font-semibold py-[20%] w-full">Job Detail</h2>
+        <h2 className="text-5xl font-semibold py-[15%] w-full text-white">
+          Job Detail
+        </h2>
       </div>
       <div className="lg:flex lg:justify-center lg:items-center p-10">
         <div className=" p-5  text-start">
@@ -41,8 +52,14 @@ const JobDetail = () => {
               {salary}
             </p>
           </div>
+          <button
+            onClick={handleApplyJob}
+            className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ... p-2 rounded text-white cursor-pointer text-start mt-4"
+          >
+            Apply Now
+          </button>
         </div>
-        <div className="p-5 lg:w-3/4">
+        <div className="px-5 pb-5 pt-0 lg:w-3/4">
           <p className="mb-5">
             <strong>Job Description: </strong>
             <span className="text-gray-500">{jobDescription}</span>
@@ -61,6 +78,7 @@ const JobDetail = () => {
           </p>
         </div>
       </div>
+      <ToastContainer />
     </div>
   );
 };

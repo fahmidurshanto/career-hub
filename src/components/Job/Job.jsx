@@ -3,7 +3,6 @@ import { MdLocationOn } from "react-icons/md";
 import { Link } from "react-router-dom";
 
 const Job = ({ job }) => {
-  console.log(job);
   const { id, companyName, jobCategory, jobLocation, jobType, salary } = job;
   return (
     <div className="border-gray-200 p-5 border">
